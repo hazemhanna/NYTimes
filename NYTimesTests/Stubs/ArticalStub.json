@@ -1,0 +1,70 @@
+[
+    {
+            "uri": "nyt://article/9fa90aa8-3a25-5284-84d4-b07fad97d038",
+            "url": "https://www.nytimes.com/2020/12/04/opinion/sunday/pornhub-rape-trafficking.html",
+            "id": 100000007479053,
+            "asset_id": 100000007479053,
+            "source": "New York Times",
+            "published_date": "2020-12-04",
+            "updated": "2020-12-08 05:11:02",
+            "section": "Opinion",
+            "subsection": "Sunday Review",
+            "nytdsection": "opinion",
+            "adx_keywords": "Child Abuse and Neglect;Sex Crimes;Child Pornography;Video Recordings, Downloads and Streaming;Computers and the Internet;Women and Girls;Pornography;Human Trafficking;Regulation and Deregulation of Industry;Pornhub;MindGeek Sarl;Canada",
+            "column": null,
+            "byline": "By Nicholas Kristof",
+            "type": "Article",
+            "title": "The Children of Pornhub",
+            "abstract": "Why does Canada allow this company to profit off videos of exploitation and assault?",
+            "des_facet": [
+                "Child Abuse and Neglect",
+                "Sex Crimes",
+                "Child Pornography",
+                "Video Recordings, Downloads and Streaming",
+                "Computers and the Internet",
+                "Women and Girls",
+                "Pornography",
+                "Human Trafficking",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "Pornhub",
+                "MindGeek Sarl"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Canada"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Serena K. Fleites, 19, was 14 when a boy she had a crush on asked her to make a naked video and send it to him. She did, and it ended up on Pornhub.",
+                    "copyright": "Rachel Bujalski for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/12/06/opinion/04kristof-2-R/04kristof-2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/12/06/opinion/04kristof-2-R/04kristof-2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/12/06/opinion/04kristof-2-R/04kristof-2-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    
+]
